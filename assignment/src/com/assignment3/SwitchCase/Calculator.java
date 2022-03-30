@@ -4,7 +4,8 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println("Meera jadkar");
+		
 		char operator='*';
 		int num1 = 2000;
 		int num2= 200;
@@ -31,6 +32,9 @@ public class Calculator {
 		default:
 			System.out.println("Invalid Operator");
 			break;
+			
+			
+			
 		}
 	}
 
